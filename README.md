@@ -1,1 +1,1 @@
-[![Release & Publish](https://github.com/SeatloN/POBS/actions/workflows/main.yml/badge.svg)](https://github.com/SeatloN/POBS/actions/workflows/main.yml)
+[![Release & Publish (v2)](https://github.com/SeatloN/POBS/actions/workflows/main-2.yml/badge.svg?branch=main)](https://github.com/SeatloN/POBS/actions/workflows/main-2.yml)
