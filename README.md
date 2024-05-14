@@ -7,8 +7,8 @@ This application is built to help broadcasts and streams display team logos and 
 - File management
 - Import and Export of teams and files
 
-Explanation Video: [Youtube Video](https://www.youtube.com/watch?v=4bVCRf02Qtc&ab_channel=MarkPower)
-Support Discord: [https://discord.gg/cnVj6Gy3rK](https://discord.gg/cnVj6Gy3rK) 
-Support Email: [alexander@seatlon.com](mailto:alexander@seatlon.com) 
+Explanation Video: [Youtube Video](https://www.youtube.com/watch?v=4bVCRf02Qtc&ab_channel=MarkPower)<br> 
+Support Discord: [https://discord.gg/cnVj6Gy3rK](https://discord.gg/cnVj6Gy3rK)<br>
+Support Email: [alexander@seatlon.com](mailto:alexander@seatlon.com)<br>
 Donations: [PayPal.me](https://paypal.me/seatlon)
 
